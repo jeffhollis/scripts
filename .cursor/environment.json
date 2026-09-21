@@ -1,0 +1,4 @@
+{
+  "name": "AppDeploy PowerShell",
+  "install": "bash .cursor/install.sh"
+}
